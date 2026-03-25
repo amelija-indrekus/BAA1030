@@ -1,1 +1,1 @@
-# Hello, welcome to my repositiry
+# Hello, welcome to my repository
